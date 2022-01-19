@@ -1,5 +1,5 @@
 # POKE_API
-## Proyecto de Coder House para realizar la intergracion de una API con JavaScript
+Proyecto con Coder House para realizar la intergracion de una API con JavaScript
 
 ## Link del proyecto finalizado
 
