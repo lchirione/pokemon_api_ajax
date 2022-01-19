@@ -2,7 +2,7 @@
 Proyecto con Coder House para realizar la intergracion de una API con JavaScript
 
 ## Link del proyecto finalizado
-
+https://lchirione.github.io/pokemon_api_ajax/
 
 ## Caracteristica del Proyecto
 La idea principal es entender como conectar con una API de tercero o propia
